@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+        Chatter|App
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        *{
+            font-family: roboto,arial,sans-serif;
+        }
+        h1{
+            color: #00838f;
+        }
+        h2{
+            color: #00838f; font-size: smaller;
+        }
+        p{
+            background-color: lightgrey;
+        }
+        .my-btn{
+            background-color: #00838f; text-transform: uppercase; color: white; font-size: larger;
+        }
+        .my-btn-2{
+            background-color: #00838f; text-transform: uppercase; color: white; font-size: larger;
+        }
+    </style>
+</head>
+</html>
